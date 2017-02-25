@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
 export class HelloIonicPage {
 
   classificacao: string = "e";
+  clinica: string = "a";
 
   constructor() {
 
