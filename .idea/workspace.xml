@@ -2,64 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="fc680be5-928e-4990-87fb-ca3cf9eb77b7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/drawable-land-hdpi/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/drawable-land-ldpi/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/drawable-land-mdpi/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/drawable-land-xhdpi/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/drawable-land-xxhdpi/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/drawable-land-xxxhdpi/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/drawable-port-hdpi/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/drawable-port-ldpi/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/drawable-port-mdpi/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/drawable-port-xhdpi/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/drawable-port-xxhdpi/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/drawable-port-xxxhdpi/screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/mipmap-hdpi/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/mipmap-ldpi/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/mipmap-mdpi/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/mipmap-xhdpi/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/mipmap-xxhdpi/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/res/mipmap-xxxhdpi/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/resources/icon.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/resources/splash.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/src/pages/hello-ionic/hello-ionic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/src/pages/hello-ionic/hello-ionic.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/src/pages/life-care/life-care.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/src/pages/sobre/sobre.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/src/pages/sobre/sobre.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lifeCare/src/pages/sobre/sobre.ts" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-land-hdpi-screen.png" afterPath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-land-hdpi-screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-land-ldpi-screen.png" afterPath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-land-ldpi-screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-land-mdpi-screen.png" afterPath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-land-mdpi-screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-land-xhdpi-screen.png" afterPath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-land-xhdpi-screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-land-xxhdpi-screen.png" afterPath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-land-xxhdpi-screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-land-xxxhdpi-screen.png" afterPath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-land-xxxhdpi-screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-port-hdpi-screen.png" afterPath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-port-hdpi-screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-port-ldpi-screen.png" afterPath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-port-ldpi-screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-port-mdpi-screen.png" afterPath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-port-mdpi-screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-port-xhdpi-screen.png" afterPath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-port-xhdpi-screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-port-xxhdpi-screen.png" afterPath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-port-xxhdpi-screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-port-xxxhdpi-screen.png" afterPath="$PROJECT_DIR$/lifeCare/resources/android/splash/drawable-port-xxxhdpi-screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/icon.png" afterPath="$PROJECT_DIR$/lifeCare/resources/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-568h@2x~iphone.png" afterPath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-568h@2x~iphone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-667h.png" afterPath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-667h.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-736h.png" afterPath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-736h.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-Landscape-736h.png" afterPath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-Landscape-736h.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-Landscape@2x~ipad.png" afterPath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-Landscape@2x~ipad.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-Landscape~ipad.png" afterPath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-Landscape~ipad.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-Portrait@2x~ipad.png" afterPath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-Portrait@2x~ipad.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-Portrait~ipad.png" afterPath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default-Portrait~ipad.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default@2x~iphone.png" afterPath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default@2x~iphone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default~iphone.png" afterPath="$PROJECT_DIR$/lifeCare/resources/ios/splash/Default~iphone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/resources/splash.png" afterPath="$PROJECT_DIR$/lifeCare/resources/splash.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/src/assets/background/bg.jpg" afterPath="$PROJECT_DIR$/lifeCare/src/assets/background/bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/config.xml" afterPath="$PROJECT_DIR$/lifeCare/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/src/app/app.component.ts" afterPath="$PROJECT_DIR$/lifeCare/src/app/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/src/app/app.html" afterPath="$PROJECT_DIR$/lifeCare/src/app/app.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/src/app/app.module.ts" afterPath="$PROJECT_DIR$/lifeCare/src/app/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lifeCare/src/app/app.scss" afterPath="$PROJECT_DIR$/lifeCare/src/app/app.scss" />
     </list>
     <ignored path="life-care.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -104,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lifeCare/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
@@ -121,6 +65,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lifeCare/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -168,13 +122,13 @@
         <option value="$PROJECT_DIR$/lifeCare/src/app/app.scss" />
         <option value="$PROJECT_DIR$/lifeCare/src/pages/life-care/life-care.ts" />
         <option value="$PROJECT_DIR$/lifeCare/src/pages/list/list.html" />
-        <option value="$PROJECT_DIR$/lifeCare/config.xml" />
         <option value="$PROJECT_DIR$/lifeCare/src/pages/life-care/life-care.html" />
         <option value="$PROJECT_DIR$/lifeCare/src/pages/sobre/list.ts" />
         <option value="$PROJECT_DIR$/lifeCare/src/pages/sobre/sobre.scss" />
         <option value="$PROJECT_DIR$/lifeCare/src/pages/sobre/sobre.ts" />
         <option value="$PROJECT_DIR$/lifeCare/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/lifeCare/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/lifeCare/config.xml" />
       </list>
     </option>
   </component>
@@ -342,23 +296,23 @@
       <updated>1487985109600</updated>
       <workItem from="1487985112475" duration="5067000" />
       <workItem from="1488044684351" duration="13578000" />
-      <workItem from="1488072484832" duration="23000" />
+      <workItem from="1488072484832" duration="381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18668000" />
+    <option name="totallyTimeSpent" value="19026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="27" width="1423" height="799" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964337" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964337" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -611,14 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lifeCare/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="88" selection-start-line="4" selection-start-column="88" selection-end-line="4" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lifeCare/src/app/app.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -638,14 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lifeCare/src/pages/sobre/sobre.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -681,6 +619,11 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lifeCare/res/mipmap-xxhdpi/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lifeCare/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -688,6 +631,22 @@
           <folding>
             <element signature="e#0#53#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifeCare/src/pages/sobre/sobre.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lifeCare/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
