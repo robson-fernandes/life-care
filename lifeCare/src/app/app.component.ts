@@ -4,8 +4,8 @@ import { Platform, MenuController, Nav } from 'ionic-angular';
 
 import { StatusBar, Splashscreen } from 'ionic-native';
 
-import { HelloIonicPage } from '../pages/hello-ionic/hello-ionic';
-import { ListPage } from '../pages/list/list';
+import { LifeCarePage } from '../pages/life-care/life-care';
+import { SobrePage } from '../pages/sobre/sobre';
 
 
 @Component({
@@ -15,7 +15,7 @@ export class MyApp {
   @ViewChild(Nav) nav: Nav;
 
   // make HelloIonicPage the root (or first) page
-  rootPage: any = HelloIonicPage;
+  rootPage: any = LifeCarePage;
   pages: Array<{title: string, component: any}>;
 
   constructor(
@@ -26,8 +26,8 @@ export class MyApp {
 
     // set our app's pages
     this.pages = [
-      { title: 'Life Care', component: HelloIonicPage },
-      { title: 'Sobre', component: ListPage }
+      { title: 'Life Care', component: LifeCarePage },
+      { title: 'Sobre', component: SobrePage }
     ];
   }
 

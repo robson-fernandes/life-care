@@ -1,0 +1,49 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Life Care</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content class="bg-content" padding>
+
+  <ion-list>
+          <ion-item>
+            <ion-label><ion-icon name="star"></ion-icon> Classificação</ion-label>
+            <ion-select (ngModelChange)="calculateClassificacaoEvent($event)" [(ngModel)]="classificacao">
+              <ion-option value="mu">Muito Urgente</ion-option>
+              <ion-option value="u">Urgente</ion-option>
+              <ion-option value="pu">Pouco Urgente</ion-option>
+              <ion-option value="n">Não Urgente</ion-option>
+            </ion-select>
+          </ion-item>
+
+          <ion-item>
+            <ion-label><ion-icon name="person"></ion-icon> Clínica</ion-label>
+            <ion-select (ngModelChange)="calculateClinicaEvent($event)" [(ngModel)]="clinica">
+              <ion-option value="a">Adulto</ion-option>
+              <ion-option value="i">Infantil</ion-option>
+            </ion-select>
+          </ion-item>
+    </ion-list>
+
+      <div style="text-align: center;">
+          <div style="position: relative;left: 81px;top: 24px;">
+            <img src="assets/images/icon-cardiograma.png" style="width: 47px;">
+          </div>
+
+          <div style="color: white;font-size: 89px;" [innerHTML]="tempoMedioAtendimento"></div>
+
+          <div style="color: white;font-size: 28px;">minuto(s)</div>
+          <div style="color: white;font-size: 15px;">de espera para o atendimento</div>
+      </div>
+  <br>
+
+  <div style="text-align: center">
+    <button (click)="calculate()" ion-button round>Calcular Tempo</button>
+  </div>
+
+</ion-content>

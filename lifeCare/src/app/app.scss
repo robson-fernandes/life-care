@@ -15,6 +15,18 @@
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
 
+ion-spinner {
+  position: relative;
+  display: inline-block;
+  width: 100px !important;
+  height: 100px !important;
+}
+
+.loading-md .loading-wrapper {
+  background: transparent;
+  box-shadow: 0 16px 20px transparent;
+}
+
 .toolbar-background-md {
   background: transparent;
 }
@@ -26,3 +38,19 @@
 .toolbar-title-md {
   color: #ffffff;
 }
+
+/*** Menu */
+
+button.item.item-block.item-md{
+  background: transparent;
+  color:white;
+}
+button.item.item-block.item-md.activated{
+  background: transparent;
+  color:white;
+}
+.bg-menu{
+  background: url("../assets/background/bg.jpg");
+}
+
+
